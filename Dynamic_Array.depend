@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1595249650 source:d:\c programming\dynamic_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DYNAMIC.h"
+
+1595249545 d:\c programming\dynamic_array\dynamic.h
+	<stdio.h>
+	<stdlib.h>
+
